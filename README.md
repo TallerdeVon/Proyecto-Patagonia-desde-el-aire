@@ -1,8 +1,8 @@
-#  Proyecto Patagonia - Desde el aire
-### Por TallerDeVant | Robótica • Drones • Soluciones inteligentes • bomberos • asistencia • todo por mi país
+
+### Por Taller de Von | Robótica • Drones • Soluciones inteligentes • bomberos • asistencia • todo por mi país
 
 
-Este repositorio contiene toda la documentación técnica, modelos 3D y guías de ensamblaje para la construcción de drones de exploración diseñados en **TallerDeVant**. El objetivo es crear una plataforma de vuelo robusta, capaz de capturar imágenes en entornos desafiantes como la Patagonia Argentina y evitar todos los incendios posibles
+Este repositorio contiene toda la documentación técnica, modelos 3D y guías de ensamblaje para la construcción de drones de exploración diseñados en **Taller De Von**. El objetivo es crear una plataforma de vuelo robusta, capaz de capturar imágenes en entornos desafiantes como la Patagonia Argentina, detectar incendios, equiparse de manera poli funcional, detectar personas y caza furtiva. Tambien ser asistencia en zonas peligrosas para busqueda y rescate.
 
 ---
 
@@ -25,22 +25,22 @@ Este repositorio contiene toda la documentación técnica, modelos 3D y guías d
 
 ---
 
-## 🇦🇷 Sobre TallerDeVant
-Soy un **Handyman Tecnológico** enfocado en resolver problemas mediante la robótica y la ingeniería. Este proyecto nace de la necesidad de llevar la tecnología de vanguardia (*Avant*) al servicio de la exploración.
+## 🇦🇷 Sobre Taller De von
+Soy un **Handyman Tecnológico** enfocado en resolver problemas mediante la robótica y la ingeniería. Este proyecto nace de la necesidad de llevar la tecnología de vanguardia, desarrollo libre, y la insignea del "hecho en argentina" al servicio de la exploración.
 
 
-* **Instagram:** [@TallerDeVant](https://instagram.com/tallerdevant)
-* **Twitch:** [TallerDeVant](https://twitch.tv/tallerdevant)
-* **KICK:** [@TallerDeVant](https://instagram.com/tallerdevant)
-* **TIKTOK:** [TallerDeVant](https://twitch.tv/tallerdevant)
-* **Discord:** [@TallerDeVant](https://instagram.com/tallerdevant)
-* **web:** [@TallerDeVant](https://instagram.com/tallerdevant)
-* **github:** [@TallerDeVant](https://instagram.com/tallerdevant)
-* **Linkedin** [@TallerDeVant](https://instagram.com/tallerdevant)
-* **X** [@TallerDeVant](https://instagram.com/tallerdevant)
+* **Instagram:** [@TallerDeVant](https://instagram.com/tallerdevon)
+* **Twitch:** [TallerDevon](https://twitch.tv/tallerdevon)
+* **KICK:** [@TallerDeVant](https://instagram.com/tallerdevon)
+* **TIKTOK:** [TallerDeVant](https://twitch.tv/tallerdevon)
+* **Discord:** [@TallerDeVant](https://instagram.com/tallerdevon)
+* **web:** [@TallerDeVant](https://instagram.com/tallerdevon)
+* **github:** [@TallerDeVant](https://instagram.com/tallerdevon)
+* **Linkedin** [@TallerDeVant](https://instagram.com/tallerdevon)
+* **X** [@TallerDeVant](https://instagram.com/tallerdevon)
 
 
 
 
 ---
-> *"Ayudando al país con pocos pesos pero mucho ingenio*
+> *"Ayudando al país con pocos pesos pero con mucho ingenio*
