@@ -29,15 +29,15 @@ Este repositorio contiene toda la documentación técnica, modelos 3D y guías d
 Soy un **Handyman Tecnológico** enfocado en resolver problemas mediante la robótica y la ingeniería. Este proyecto nace de la necesidad de llevar la tecnología de vanguardia, desarrollo libre, y la insignea del "hecho en argentina" al servicio de la exploración.
 
 
-* **Instagram:** [@TallerDeVant](https://instagram.com/tallerdevon)
-* **Twitch:** [TallerDevon](https://twitch.tv/tallerdevon)
-* **KICK:** [@TallerDeVant](https://instagram.com/tallerdevon)
-* **TIKTOK:** [TallerDeVant](https://twitch.tv/tallerdevon)
-* **Discord:** [@TallerDeVant](https://instagram.com/tallerdevon)
-* **web:** [@TallerDeVant](https://instagram.com/tallerdevon)
-* **github:** [@TallerDeVant](https://instagram.com/tallerdevon)
-* **Linkedin** [@TallerDeVant](https://instagram.com/tallerdevon)
-* **X** [@TallerDeVant](https://instagram.com/tallerdevon)
+* **Instagram:** [@TallerDeVon](https://instagram.com/tallerdevon)
+* **Twitch:** [TallerDeVon](https://twitch.tv/tallerdevon)
+* **KICK:** [@TallerDeVon](https://instagram.com/tallerdevon)
+* **TIKTOK:** [TallerDeVon](https://twitch.tv/tallerdevon)
+* **Discord:** [@TallerDeVon](https://instagram.com/tallerdevon)
+* **web:** [@TallerDeVon](https://instagram.com/tallerdevon)
+* **github:** [@TallerDeVon](https://instagram.com/tallerdevon)
+* **Linkedin** [@TallerDeVon](https://instagram.com/tallerdevon)
+* **X** [@TallerDeVon](https://instagram.com/tallerdevon)
 
 
 
